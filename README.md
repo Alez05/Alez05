@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Hey there 👋
-
 I'm Alex — a front-end developer who loves clean interfaces, snappy performance, and building things that just *feel right*.
 
 Started from hospitality, made my way up through leadership, and eventually shifted gears into web development — and haven’t looked back since. Right now, I'm studying at Le Wagon’s bootcamp to sharpen my skills and push my limits even further.
